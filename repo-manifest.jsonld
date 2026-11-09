@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/rrousselGit/flutter_hooks/commit/1c47821832bdc45a04b61248d99725e9f45690b7",
       "git:hexsha": "1c47821832bdc45a04b61248d99725e9f45690b7",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-09T22:01:41.691329+00:00"
     },
     {
       "@id": "https://repolex.ai/r/rrousselGit/flutter_hooks/commit/7252cdbc81b790439a5c2bce0fbcd23cb3fd353f",
